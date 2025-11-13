@@ -3,7 +3,7 @@
   "bunVersion": "1.x"
 }
 ],
-  "routes": [
+"routes": [
     {
       "src": "/(.*)",
       "dest": "/"
